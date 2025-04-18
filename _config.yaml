@@ -48,11 +48,7 @@ linkedin_username: jsonkarn
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate and enthusiastic Data Analyst/Scientist with 5 years of professional experience across diverse industries and a Master's degree in Data Science. 
-
-  Experienced in understanding business requirements and delivering the best suitable data-driven solutions to the stakeholders within the given deadline. 
-  
-  Extensively skilled in implementing ETL pipelines, conducting data analysis, and developing AI models.
+  Passionate and enthusiastic Data Analyst/Scientist with 5 years of professional experience across diverse industries and a Master's degree in Data Science.  Experienced in understanding business requirements and delivering the best suitable data-driven solutions to the stakeholders within the given deadline. Extensively skilled in implementing ETL pipelines, conducting data analysis, and developing AI models.
 
   I am most skilled in: <mark>Python</mark> and <mark>Experimenting to Learn New Things</mark>
 
