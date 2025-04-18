@@ -5,7 +5,7 @@ experience across diverse industries and a Master's degree in Data Science.
 # Work Experience
 - Associate Software Professional, Accenture Pvt. Ltd., Hyderabad, India
 - Data Scientist (Working Student), Siemens Financial Services, Munich, Germany
-- Data Scientist, Hartmann AG, Heidenheim, Germany
+- Data Scientist, BMW AG, Munich, Germany
 
 # Education
 - Masters in Science, TU Munich Germany
