@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Vamshi Bhushanaboina
+name: Jason Karn
 title: Data Scientist/Analyst
-email: vamshib0708@gmail.com
-website: https://github.com/vamshi975
+email: jasonkarn@gmail.com
+website: https://vamshi975.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  vamshi975
+github_username:  jsonkarn
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: bvamshi
+linkedin_username: jsonkarn
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,9 +48,13 @@ linkedin_username: bvamshi
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Passionate and enthusiastic Data Analyst/Scientist with 5 years of professional experience across diverse industries and a Master's degree in Data Science. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Experienced in understanding business requirements and delivering the best suitable data-driven solutions to the stakeholders within the given deadline. 
+  
+  Extensively skilled in implementing ETL pipelines, conducting data analysis, and developing AI models.
+
+  I am most skilled in: <mark>Python</mark> and <mark>Experimenting to Learn New Things</mark>
 
 content:
   - title: Projects # Title for the section
