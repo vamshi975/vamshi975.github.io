@@ -9,7 +9,7 @@ version: 2
 name: Jason Karn
 title: Data Scientist/Analyst
 email: jasonkarn@gmail.com
-website: https://vamshi975.github.io/
+website: https://google.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: https://google.com
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  https://google.com
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://google.com
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -107,10 +107,10 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
